@@ -1,0 +1,12 @@
+References : 
+1. ATMEL Instruction Set Manual : https://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf
+2. Atmel Processor Manual : https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
+3. https://madebyevan.com/fsm/
+4. Circuitverse Online Simulator : circuitverse.org/simulator
+
+Percentage Contribution of Members
+1. Raadhes Chandaluru (CS22B069) - 34%
+2. Yashvardhan Toshniwal (CS22B088) - 33%
+3. Aditya Srivastava (CS22B066) - 33%
+
+Did not discuss with any other students.
